@@ -1,0 +1,12 @@
+/*COULEUR DARRIERE plan  */
+body{
+    background-color: rgb(128, 172, 172);
+}
+/*lierer les deux fichier (cf-html)*/
+table{
+    color: #8f0606;
+}
+/*taille ecriture pour p*/
+tr{
+    font-size:x-large;
+}

@@ -1,0 +1,12 @@
+/*COULEUR DARRIERE plan  */
+body{
+    background-color: rgb(92, 134, 134);
+}
+/*lierer les deux fichier (cf-html)*/
+h1{
+    color: #b71919;
+}
+/*taille ecriture pour p*/
+p{
+    font-size:x-large;
+}
